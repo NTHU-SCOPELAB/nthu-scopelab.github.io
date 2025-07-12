@@ -10,16 +10,16 @@ sites:
     check: "tcp-ping"
     url: $EE325
     port: 22
-
-  - name: EE325 Jumphost-dummy
-    check: "tcp-ping"
-    url: $EE325
-    port: 2221
     
   - name: EE325 Jumphost(port 2222)
     check: "tcp-ping"
     url: $EE325
     port: 2222
+
+  - name: R744 Jumphost(port 22)
+    check: "tcp-ping"
+    url: $R744
+    port: 22
 
 assignees: # Users to assign downtime issues (optional)
   - pedestrianlove
