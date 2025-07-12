@@ -3,8 +3,18 @@ owner: NTHU-SCOPELAB # Your GitHub organization or username, where this reposito
 repo: nthu-scopelab.github.io # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: GitLab Wiki
+    url: https://makeitsimple.cs.nthu.edu.tw/
+
+  - name: EE325 Jumphost(port 22)
+    check: "tcp-ping"
+    url: $EE325
+    port: 22
+
+  - name: EE325 Jumphost(port 2222)
+    check: "tcp-ping"
+    url: $EE325
+    port: 2222
 
 assignees: # Users to assign downtime issues (optional)
   - pedestrianlove
