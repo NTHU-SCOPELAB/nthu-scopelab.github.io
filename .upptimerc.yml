@@ -11,6 +11,11 @@ sites:
     url: $EE325
     port: 22
 
+  - name: EE325 Jumphost-dummy
+    check: "tcp-ping"
+    url: $EE325
+    port: 2221
+    
   - name: EE325 Jumphost(port 2222)
     check: "tcp-ping"
     url: $EE325
