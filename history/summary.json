@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2139,
-    "timeDay": 2139,
-    "timeWeek": 2139,
-    "timeMonth": 2139,
-    "timeYear": 2139,
+    "time": 4457,
+    "timeDay": 4457,
+    "timeWeek": 4457,
+    "timeMonth": 4457,
+    "timeYear": 4457,
     "dailyMinutesDown": {}
   },
   {
@@ -28,12 +28,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "EE325 Jumphost-dummy",
+    "url": "$EE325",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ee-325-jumphost-dummy",
+    "status": "down",
+    "uptime": "95.00%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "95.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   },
   {
     "name": "EE325 Jumphost(port 2222)",
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   }
 ]
