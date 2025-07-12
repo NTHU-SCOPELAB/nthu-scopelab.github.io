@@ -21,5 +21,6 @@ assignees: # Users to assign downtime issues (optional)
   - pedestrianlove
 
 status-website:
+  theme: night
   baseUrl: / # where "repo" is your repository name
   name: SCOPELAB Server uptime
