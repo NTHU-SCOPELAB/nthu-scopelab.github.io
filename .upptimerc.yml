@@ -32,5 +32,5 @@ status-website:
       href: https://github.com/NTHU-SCOPELAB
   theme: dark
   logoUrl: https://www.cs.nthu.edu.tw/~cherung/image001.png
-  name: NTHU SCOPELAB Server uptime
+  name: Server Uptime
   cname: nthu-scopelab.github.io
