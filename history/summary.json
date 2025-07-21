@@ -4,19 +4,19 @@
     "url": "https://makeitsimple.cs.nthu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/makeitsimple.cs.nthu.edu.tw.ico",
     "slug": "git-lab-wiki",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2518,
-    "timeDay": 1767,
-    "timeWeek": 2248,
-    "timeMonth": 2518,
-    "timeYear": 2518,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 2570,
+    "timeDay": 2560,
+    "timeWeek": 2386,
+    "timeMonth": 2570,
+    "timeYear": 2570,
     "dailyMinutesDown": {
-      "2025-07-21": 4
+      "2025-07-21": 37
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$EE325",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ee-325-jumphost-port-22",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 210,
-    "timeDay": 182,
-    "timeWeek": 216,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 212,
+    "timeDay": 207,
+    "timeWeek": 218,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-07-21": 3
+      "2025-07-21": 36
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$EE325",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ee-325-jumphost-port-2222",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 209,
-    "timeDay": 181,
-    "timeWeek": 214,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 210,
+    "timeDay": 207,
+    "timeWeek": 217,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-07-21": 1
+      "2025-07-21": 35
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$R744",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "r744-jumphost-port-22",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 241,
-    "timeDay": 181,
-    "timeWeek": 275,
+    "timeDay": 207,
+    "timeWeek": 270,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-07-21": 0
+      "2025-07-21": 33
     }
   }
 ]
