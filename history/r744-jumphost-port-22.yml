@@ -1,7 +1,7 @@
 url: $R744
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-10-25T23:23:20.892Z
+lastUpdated: 2025-10-26T07:43:01.119Z
 startTime: 2025-07-12T13:17:35.834Z
 generator: Upptime <https://github.com/upptime/upptime>
