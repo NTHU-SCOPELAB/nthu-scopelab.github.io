@@ -22,7 +22,7 @@ sites:
     port: 22
 
 assignees: # Users to assign downtime issues (optional)
-  - pedestrianlove
+  - allennnnnz
 
 status-website:
   navbar:
