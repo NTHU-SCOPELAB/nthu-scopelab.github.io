@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/makeitsimple.cs.nthu.edu.tw.ico",
     "slug": "git-lab-wiki",
     "status": "down",
-    "uptime": "81.31%",
+    "uptime": "81.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.31%",
+    "uptimeYear": "81.28%",
     "time": 2856,
     "timeDay": 0,
     "timeWeek": 0,
@@ -44,7 +44,7 @@
       "2026-03-27": 49,
       "2026-04-11": 75,
       "2026-04-12": 49,
-      "2026-06-15": 146,
+      "2026-06-15": 281,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ee-325-jumphost-port-22",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.76%",
+    "uptimeDay": "90.01%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.76%",
     "time": 212,
     "timeDay": 177,
     "timeWeek": 317,
@@ -141,7 +141,7 @@
       "2026-03-27": 48,
       "2026-04-11": 74,
       "2026-04-12": 48,
-      "2026-06-15": 8
+      "2026-06-15": 144
     }
   },
   {
@@ -150,11 +150,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ee-325-jumphost-port-2222",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.76%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "98.76%",
     "time": 210,
     "timeDay": 177,
     "timeWeek": 202,
@@ -183,7 +183,7 @@
       "2026-03-27": 47,
       "2026-04-11": 73,
       "2026-04-12": 47,
-      "2026-06-15": 4
+      "2026-06-15": 140
     }
   },
   {
@@ -192,11 +192,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "r744-jumphost-port-22",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "53.77%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "98.15%",
+    "uptime": "98.12%",
+    "uptimeDay": "90.58%",
+    "uptimeWeek": "52.43%",
+    "uptimeMonth": "89.05%",
+    "uptimeYear": "98.12%",
     "time": 218,
     "timeDay": 177,
     "timeWeek": 203,
@@ -231,7 +231,7 @@
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1138,
-      "2026-06-15": 0
+      "2026-06-15": 136
     }
   }
 ]
