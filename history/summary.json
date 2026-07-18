@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/makeitsimple.cs.nthu.edu.tw.ico",
     "slug": "git-lab-wiki",
     "status": "down",
-    "uptime": "74.06%",
+    "uptime": "74.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.67%",
+    "uptimeYear": "73.57%",
     "time": 2856,
     "timeDay": 0,
     "timeWeek": 0,
@@ -44,7 +44,7 @@
       "2026-03-27": 49,
       "2026-04-11": 75,
       "2026-04-12": 49,
-      "2026-07-18": 159,
+      "2026-07-18": 655,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -145,11 +145,11 @@
     "url": "$EE325",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ee-325-jumphost-port-22",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.72%",
     "time": 211,
     "timeDay": 231,
@@ -175,7 +175,8 @@
       "2026-04-11": 74,
       "2026-04-12": 48,
       "2026-06-15": 321,
-      "2026-06-17": 116
+      "2026-06-17": 116,
+      "2026-07-18": 8
     }
   },
   {
@@ -183,11 +184,11 @@
     "url": "$EE325",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ee-325-jumphost-port-2222",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.80%",
     "time": 210,
     "timeDay": 232,
@@ -218,7 +219,8 @@
       "2026-04-11": 73,
       "2026-04-12": 47,
       "2026-06-15": 317,
-      "2026-06-17": 112
+      "2026-06-17": 112,
+      "2026-07-18": 4
     }
   },
   {
@@ -226,9 +228,9 @@
     "url": "$R744",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "r744-jumphost-port-22",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "98.14%",
@@ -268,7 +270,8 @@
       "2026-06-10": 1138,
       "2026-06-15": 313,
       "2026-06-17": 108,
-      "2026-06-22": 350
+      "2026-06-22": 350,
+      "2026-07-18": 0
     }
   }
 ]
